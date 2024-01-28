@@ -19,7 +19,7 @@
 ## 💖 HAKKIMDA
 
 <samp>
-・ İsmim Alkan, 19 yaşındayım. 4 yıldır yazılımla ilgileniyor, bu alanda kendimi geliştiriyorum . Prensiplerim doğrultusunda yaşamaya çalışıyorum.<br>
+・ İsmim Alkan, 19 yaşındayım. 4 yıldır yazılımla ilgiliyim. Prensiplerim doğrultusunda, kendi çapımda yaşamaya çalışıyorum.<br>
  <br> <br> <br>
 
 ・ Karşınızda Mütişmel 🤮 [Luppux](https://discord.gg/luppux) <br>
@@ -28,13 +28,10 @@
 
 #
 
-
-#
-
 <img width="30%" align="left" src="https://github.com/ArviSThings/ArviSThings/assets/69751083/fac025ec-b96d-4d49-bdaa-1e4110bbe58c">
 <div align="right" width="100%">
 
-## 👨🏻‍💻 KULLANDIĞIM TEKNOLOJİLER
+## 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 
 <p>
 <img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
