@@ -43,9 +43,7 @@
 
 #
 
-<p align="center">
-<img width="50%" src="[![Discord Presence](https://lanyard.cnrad.dev/api/241722849373454338)](https://discord.com/users/241722849373454338)lse&count_private=false&layout=compact">
-	</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/241722849373454338)](https://discord.com/users/241722849373454338)
 
 ## 📊 İSTATİSTİKLERİM
 
