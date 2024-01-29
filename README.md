@@ -43,7 +43,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/241722849373454338?border=ffffff&theme=000">
+<img width="30%" align="right" src="[![Discord Presence](https://lanyard.cnrad.dev/api/241722849373454338)](https://discord.com/users/241722849373454338)">
 <div align="left" width="100%">
 
 ## 📊 İSTATİSTİKLERİM
