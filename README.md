@@ -43,14 +43,16 @@
 
 #
 
-<img width="30%" align="right" src="[![Discord Presence](https://lanyard.cnrad.dev/api/241722849373454338)](https://discord.com/users/241722849373454338)">
-<div align="left" width="100%">
+<p align="center">
+<img width="50%" src="[![Discord Presence](https://lanyard.cnrad.dev/api/241722849373454338)](https://discord.com/users/241722849373454338)lse&count_private=false&layout=compact">
+	</p>
 
 ## 📊 İSTATİSTİKLERİM
 
  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arvisthings&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvisthings&theme=dark&hide_border=true"/>
 
+#
 
 ## 🎶 Gel Beraber Dinleyelim
 
