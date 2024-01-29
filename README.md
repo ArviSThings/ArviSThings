@@ -1,12 +1,13 @@
 # <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Herkese+merhaba%2C+ben+Alkan"><img align="right" width="30%" src="https://count.getloli.com/get/@:arvislayer?theme=asoul">
 
 <div align="center">
-<img src="https://github.com/ArviSThings/ArviSThings/assets/69751083/a1936c9f-6f7d-4ec6-9710-70c791d54c76" width="90%"></div>
+<img src="https://github.com/ArviSThings/ArviSThings/assets/77463545/7291f200-1768-4e06-94aa-c4dfab0010dd" width="90%"></div>
 
 #
 
-<img width="30%" align="right" src="https://github.com/ArviSThings/ArviSThings/assets/69751083/e8b45dde-4456-4028-aec7-5beb6d5e8b46">
+<img width="30%" align="right" src="https://github.com/ArviSThings/ArviSThings/assets/77463545/7b6e33e6-1642-4547-8b83-b1f0dd62e9d2">
 <div align="left" width="100%">
+
 
 <p align="center">
  <a href="https://discord.com/users/241722849373454338" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -28,8 +29,9 @@
 
 #
 
-<img width="30%" align="left" src="https://github.com/ArviSThings/ArviSThings/assets/69751083/fac025ec-b96d-4d49-bdaa-1e4110bbe58c">
+<img width="30%" align="left" src="https://github.com/ArviSThings/ArviSThings/assets/77463545/ec45a240-10a2-4b46-baa3-50e344f6a51f">
 <div align="right" width="100%">
+
 
 ## 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 
@@ -43,7 +45,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?border=ffffff&theme=000">
+<img width="30%" align="right" src="https://github.com/ArviSThings/ArviSThings/assets/77463545/c424e549-b139-4352-9435-3daf77114090">
 <div align="left" width="100%">
 
 ## 📊 İSTATİSTİKLERİM
