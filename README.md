@@ -43,8 +43,6 @@
 
 #
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/241722849373454338)](https://discord.com/users/241722849373454338)
-
 ## 📊 İSTATİSTİKLERİM
 
  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arvisthings&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
