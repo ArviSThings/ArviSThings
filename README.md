@@ -20,7 +20,7 @@
 ## 💖 HAKKIMDA
 
 <samp>
-・ İsmim Alkan, 19 yaşındayım. 4 yıldır yazılımla ilgiliyim. Prensiplerim doğrultusunda, kendi çapımda yaşamaya çalışıyorum.<br>
+・ 19 yaşındayım. 4 yıldır yazılıma ilgiliyim. Prensiplerim doğrultusunda, kendi çapımda yaşamaya çalışıyorum.<br>
  <br> <br> <br>
 
 ・ Karşınızda Mütişmel 🤮 [Luppux](https://discord.gg/luppux) <br>
