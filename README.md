@@ -43,6 +43,9 @@
 
 #
 
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/379179073382907908?border=ffffff&theme=000">
+<div align="left" width="100%">
+
 ## 📊 İSTATİSTİKLERİM
 
  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arvisthings&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
