@@ -35,16 +35,13 @@
 
 ## 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 
-
+<p>
+<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
+	</p>
 
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvisthings&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 	</p>
-
-<p align="center">
-<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
-	</p>
-
 <img width="30%" align="right" src="https://github.com/ArviSThings/ArviSThings/assets/77463545/c424e549-b139-4352-9435-3daf77114090">
 <div align="left" width="100%">
 
