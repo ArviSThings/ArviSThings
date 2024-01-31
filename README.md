@@ -35,9 +35,7 @@
 
 ## 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
 
-<p align="center">
-<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
-	</p>
+
 
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvisthings&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
